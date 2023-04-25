@@ -1,16 +1,13 @@
 /**
  * @name Fallout 4 Terminal
- * @author Bates#7075
- * @version 2.0.0
+ * @author okuue#0927
+ * @version 1.0.0
  * @source https://github.com/CommandCrafterHD/Fallout4TerminalTheme
  * @website https://commandcrafterhd.github.io/Fallout4TerminalTheme
- * @donate https://www.paypal.com/paypalme/floriancegledi
- * @patreon https://patreon.com/bates
- * @description A theme inspired by Fallout 4's terminals!
+ * @description A theme inspired by Fallout 4's terminals! (red version)
  * @authorId 137259132305539072
  * @invite 6qd3SkP6Ch
 */
-
 @import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
 
@@ -27,9 +24,7 @@
   --rgb-afk-color: 255, 255, 51; /* The color used in the "idle" user status symbol */
   --rgb-dnd-color: 255, 0, 0; /* The color used in the "do not disturb" user status symbol */
   --rgb-streaming-color: 188, 19, 254; /* The color used in the "streaming X" user status symbol */
-
   --transition-time: .3s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
-
   --background-image: unset; /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
